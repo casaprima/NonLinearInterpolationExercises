@@ -1,2 +1,2 @@
 ### NonLinearInterpolationExercises
-Series of scripts trying to understand non linear interpolation and higher order curves
+Series of scripts trying to understand higher order interpolation
